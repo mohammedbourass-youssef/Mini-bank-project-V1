@@ -1,38 +1,38 @@
-# Mini Bank Project
+#Mini Bank Project
 
-## Description
+##Description
 
 The Mini Bank Project is a simple, yet functional banking system built using C# and SQL Server. The project allows users to perform basic banking operations, including account management, transactions, and balance checks. The application utilizes a relational database to store and retrieve user and transaction data securely.
 
-### Features:
+###Features:
 - User account creation and management
 - Deposit and withdrawal operations
 - Transaction history tracking
 - Balance checks
 - Simple user interface for interaction
 
-## Technologies Used
+##Technologies Used
 - C#
 - SQL Server
 
 ## Installation and Setup
 
-### Prerequisites:
+###Prerequisites:
 - Visual Studio (or any other C# IDE)
 - SQL Server (for database management)
   
-### Steps:
+###Steps:
 1. Clone the repository to your local machine.
 2. Restore the database backup in SQL Server (a .bak file should be included).
 3. Open the solution in Visual Studio.
 4. Build and run the application.
 
-### Database Setup:
+###Database Setup:
 1. Ensure the SQL Server instance is running.
-2. Restore the database from the backup file provided in the project directory.
+2. Restore the database from the backup file provided in the project directory. "databasefile"
 3. Configure the connection string in the project to match your database credentials.
 
-## How to Use:
+##How to Use:
 1. Launch the application.
 2. Follow the on-screen instructions to create an account, deposit or withdraw funds, and view account details.
 
