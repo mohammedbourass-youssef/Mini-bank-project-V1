@@ -1,0 +1,8 @@
+# Ignore Visual Studio files
+.vs/
+*.vsix
+
+# Ignore build and output directories
+bin/
+obj/
+*.exe
